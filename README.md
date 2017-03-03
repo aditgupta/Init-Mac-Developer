@@ -10,3 +10,11 @@ Let's start with the basics:
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
+4. Let's also get Pip
+```bash
+sudo easy_install pip
+```
+5. We need a version control system for our projects. Let's get Git.
+```bash
+brew install git
+```
